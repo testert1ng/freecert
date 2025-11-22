@@ -1,4 +1,4 @@
-# Cert Promo
+# Free Certs
 
 ## All Entries
 
@@ -17,4 +17,18 @@
 | [SAP](https://events.sap.com/) | [Business Processes Open Lecture 2025/26](https://events.sap.com/business-processes-open-lecture/en_us/home.html) | FREE | 💻IT | ❓TBC |
 | [Security Blue Team](https://www.securityblue.team/) | [Blue Team Junior Analyst](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle) | FREE | ⚔️Cyber | ❓TBC |
 | [APISEC UNIVERSITY](https://www.apisecuniversity.com/) | [APIsec Certified Practitioner](https://www.linkedin.com/posts/rdbarahona_apisecurity-appsec-cybersecurity-activity-7389724959989784576-ZL_x/) | $325 | ⚔️Cyber | ❓TBC |
-| [Nvidia](https://www.nvidia.com/) | [Deep Learning Institute](https://sp-events.courses.nvidia.com/dli-india25) | $30-09 | 🤖AI | ❓TBC |
+| [Nvidia](https://www.nvidia.com/) | [Deep Learning Institute](https://sp-events.courses.nvidia.com/dli-india25) | $30-90 | 🤖AI | ❓TBC |
+| [Qualys](https://www.qualys.com/training/) | [Vulnerability Management Detection and Response](https://www.qualys.com/training/course/vmdr/) | FREE | ⚔️Cyber | ❓TBC |
+| [The XSS Rat](https://thexssrat.podia.com/) | [014: CAPIE - Certified API Hacking Expert](https://thexssrat.podia.com/capie-lesson-material-no-cert) | €12.99 | ⚔️Cyber | ❓TBC |
+| [Neo4j](https://graphacademy.neo4j.com/) | [Neo4j Certified Professional](https://graphacademy.neo4j.com/certifications/neo4j-certification/) | FREE | 📊Data | ❓TBC |
+| [Neo4j](https://graphacademy.neo4j.com/) | [Neo4j Graph Data Science Certification](https://graphacademy.neo4j.com/certifications/gds-certification/) | FREE | 📊Data | ❓TBC |
+| [Microsoft](https://learn.microsoft.com/) | [DP600 Microsoft Certified: Fabric Analytics Engineer Associate](https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc2MTE4OTgxNTQwMg==) | $165 | 📊Data | 05-Dec-2025 |
+| [Microsoft](https://learn.microsoft.com/) | [DP700 Microsoft Certified: Fabric Data Engineer Associate](https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc2MTE4OTgxNTQwMg==) | $165 | 📊Data | 05-Dec-2025 |
+| [SANS Technology Institute](https://www.sans.edu/) | [The Paller Cybersecurity Scholarship](https://www.sans.edu/paller-cybersecurity-scholarship/) | Up To $54,000 | ⚔️Cyber | 15-Jan-2026 |
+| [Snowflake](https://learn.snowflake.com) | [The Paller Cybersecurity Scholarship](https://learn.snowflake.com/en/courses/ILT-SPT/) | $100 | 📊Data | ❓TBC |
+| [Red Team Leaders](https://learn.snowflake.com) | [Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/catalog) | $4.99 | ⚔️Cyber | ❓TBC |
+
+
+
+
+
