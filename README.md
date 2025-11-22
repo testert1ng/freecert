@@ -1,9 +1,9 @@
-# Free Certs
+# Free Cert Events
 
 ## All Entries
 
-| Vendor | Cert/Course | Price | Category | End Date |
-| ------ | ----------- | ----- | -------- | -------- |
+| Vendor | Cert/Course/Event | Price | Category | End Date |
+| ------ | ----------------- | ----- | -------- | -------- |
 | [Astronomer](https://academy.astronomer.io/) | [Astronomer Certification for Apache Airflow 3 Fundamentals](https://academy.astronomer.io/certification-exam-apache-airflow-3-fundamentals) | $150 | 📊Data | ❓TBC |
 | [Astronomer](https://academy.astronomer.io/) | [Astronomer Certification DAG Authoring for Apache Airflow 3](https://academy.astronomer.io/certification-exam-dag-authoring-airflow-3) | $150 | 📊Data | ❓TBC |
 | [The XSS Rat](https://thexssrat.podia.com/) | [020: Uncle Rat's XSS Guide](https://thexssrat.podia.com/ultimate-beginner-guide-xss) | €29.99 | ⚔️Cyber | ❓TBC |
@@ -27,6 +27,11 @@
 | [SANS Technology Institute](https://www.sans.edu/) | [The Paller Cybersecurity Scholarship](https://www.sans.edu/paller-cybersecurity-scholarship/) | Up To $54,000 | ⚔️Cyber | 15-Jan-2026 |
 | [Snowflake](https://learn.snowflake.com) | [The Paller Cybersecurity Scholarship](https://learn.snowflake.com/en/courses/ILT-SPT/) | $100 | 📊Data | ❓TBC |
 | [Red Team Leaders](https://learn.snowflake.com) | [Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/catalog) | $4.99 | ⚔️Cyber | ❓TBC |
+| [SAS](https://www.sas.com/) | [Get SAS certified for free!](https://www.sas.com/en_us/certification/discounts/student-certification.html) | $120 | 📊Data | 15-Dec-2025 |
+| [Oracle](https://mylearn.oracle.com/) | [Oracle Cloud Infrastructure 2025 Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | FREE | ☁️Cloud | ❓TBC |
+| [TCM Security](https://tcm-sec.com/) | [TCM Black Friday CTF](https://ctf.tcmsecurity.com/) | ❓TBC | ⚔️Cyber | ❓TBC |
+| [Oracle Netsuite](https://www.netsuite.com/) | [NetSuite Certification Program](https://www.netsuite.com/portal/services/training/suite-training/netsuite-certification/resource-center.shtml) | $125-245 | 💻IT | 31-Dec-2025 |
+| [The Secops Group](https://pentestingexams.com/) | [Community Exam CTF](https://www.linkedin.com/posts/secops-group_pentestingexams-cybersecuritycommunity-bugbounty-activity-7397587472731475969-vIIP) | £40 | ⚔️Cyber | END |
 
 
 
