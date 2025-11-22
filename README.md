@@ -16,5 +16,5 @@
 | [MasterMind](https://learn.mastermindassurance.com/) | [ISO/IEC 42001:2023 Lead Auditor](https://learn.mastermindassurance.com/products/courses/iso-42001-lead-auditor) | FREE | 🤖AI | ❓TBC |
 | [SAP](https://events.sap.com/) | [Business Processes Open Lecture 2025/26](https://events.sap.com/business-processes-open-lecture/en_us/home.html) | FREE | 💻IT | ❓TBC |
 | [Security Blue Team](https://www.securityblue.team/) | [Blue Team Junior Analyst](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle) | FREE | ⚔️Cyber | ❓TBC |
-
-
+| [APISEC UNIVERSITY](https://www.apisecuniversity.com/) | [APIsec Certified Practitioner](https://www.linkedin.com/posts/rdbarahona_apisecurity-appsec-cybersecurity-activity-7389724959989784576-ZL_x/) | $325 | ⚔️Cyber | ❓TBC |
+| [Nvidia](https://www.nvidia.com/) | [Deep Learning Institute](https://sp-events.courses.nvidia.com/dli-india25) | $30-09 | 🤖AI | ❓TBC |
