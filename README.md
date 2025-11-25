@@ -35,4 +35,5 @@
 | [Confluent](https://developer.confluent.io/) | [Confluent Data Streaming Engineer Certification](https://developer.confluent.io/certifications/data-streaming-engineer/) | FREE | 📊Data | ❓TBC |
 | [AWS](https://aws.amazon.com/) | [AWS AI and Cloud Get Cert Challenge - Hong Kong 2025](https://pages.awscloud.com/aws-ai-cloud-get-cert-challenge-hk-2025.html) | $100 | 🤖AI/☁️Cloud | 24-Dec-2025 |
 | [TryHackMe](https://tryhackme.com/) | [Advent of Cyber 2025](https://tryhackme.com/adventofcyber25) | FREE | ⚔️Cyber | 24-Dec-2025 |
+| [TCM Security](https://tcm-sec.com/) | [TCM Security Academy Free Tier](https://academy.tcm-sec.com/) | FREE | ⚔️Cyber | ❓TBC |
 
