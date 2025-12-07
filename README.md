@@ -37,3 +37,4 @@
 | [TryHackMe](https://tryhackme.com/) | [Advent of Cyber 2025](https://tryhackme.com/adventofcyber25) | FREE | ⚔️Cyber | 24-Dec-2025 |
 | [TCM Security](https://tcm-sec.com/) | [TCM Security Academy Free Tier](https://academy.tcm-sec.com/) | FREE | ⚔️Cyber | ❓TBC |
 | [The XSS Rat](https://thexssrat.podia.com/) | [013: CAPIJ - Certified API Hacking Junior](https://thexssrat.podia.com/capie-lesson-material-no-cert) | €12.99 | ⚔️Cyber | ❓TBC |
+| [The XSS Rat](https://thexssrat.podia.com/) | Uncle Rat's Web Application Hacking And Bug Bounty Guide [(1)](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=30D5618050B9DBB257A5) [(2)](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=9C38BC1582AA1D64A06F) [(3)](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=20DBEB4424E8AF39F3EA) | $22.99 | ⚔️Cyber | ❓TBC |
