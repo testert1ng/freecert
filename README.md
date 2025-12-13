@@ -38,3 +38,5 @@
 | [TCM Security](https://tcm-sec.com/) | [TCM Security Academy Free Tier](https://academy.tcm-sec.com/) | FREE | ⚔️Cyber | ❓TBC |
 | [The XSS Rat](https://thexssrat.podia.com/) | [013: CAPIJ - Certified API Hacking Junior](https://thexssrat.podia.com/capie-lesson-material-no-cert) | €12.99 | ⚔️Cyber | ❓TBC |
 | [The XSS Rat](https://thexssrat.podia.com/) | Uncle Rat's Web Application Hacking And Bug Bounty Guide [(1)](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=30D5618050B9DBB257A5) [(2)](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=9C38BC1582AA1D64A06F) [(3)](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=20DBEB4424E8AF39F3EA) | $22.99 | ⚔️Cyber | ❓TBC |
+| [The XSS Rat](https://thexssrat.podia.com/) | [XSS Survival Guide](https://www.udemy.com/course/xss-survival-guide/?couponCode=87FF4670808575643AAC) | $34.99 | ⚔️Cyber | ❓TBC |
+| [Nutanix](https://nutanix.com/) | [Nutanix Certified Professional – Multicloud Infrastructure (NCP-MCI)](https://next.nutanix.com/education-blog-153/special-limited-time-promotion-fast-track-your-nutanix-certification-45039) | $199 | ☁️Cloud | 30-Apr-2026 |
