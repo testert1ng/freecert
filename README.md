@@ -26,7 +26,7 @@
 | [Microsoft](https://learn.microsoft.com/) | [DP700 Microsoft Certified: Fabric Data Engineer Associate](https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc2MTE4OTgxNTQwMg==) | $165 | 📊Data | 05-Dec-2025 |
 | [SANS Technology Institute](https://www.sans.edu/) | [The Paller Cybersecurity Scholarship](https://www.sans.edu/paller-cybersecurity-scholarship/) | Up To $54,000 | ⚔️Cyber | 15-Jan-2026 |
 | [Snowflake](https://learn.snowflake.com) | [The Paller Cybersecurity Scholarship](https://learn.snowflake.com/en/courses/ILT-SPT/) | $100 | 📊Data | ❓TBC |
-| [Red Team Leaders](https://learn.snowflake.com) | [Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/catalog) | $4.99 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/catalog) | $4.99 | ⚔️Cyber | ❓TBC |
 | [SAS](https://www.sas.com/) | [Get SAS certified for free!](https://www.sas.com/en_us/certification/discounts/student-certification.html) | $120 | 📊Data | 15-Dec-2025 |
 | [Oracle](https://mylearn.oracle.com/) | [Oracle Cloud Infrastructure 2025 Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | FREE | ☁️Cloud | ❓TBC |
 | [TCM Security](https://tcm-sec.com/) | [TCM Black Friday CTF](https://ctf.tcmsecurity.com/) | ❓TBC | ⚔️Cyber | ❓TBC |
@@ -41,3 +41,8 @@
 | [The XSS Rat](https://thexssrat.podia.com/) | [XSS Survival Guide](https://www.udemy.com/course/xss-survival-guide/?couponCode=87FF4670808575643AAC) | $34.99 | ⚔️Cyber | ❓TBC |
 | [Nutanix](https://nutanix.com/) | [Nutanix Certified Professional – Multicloud Infrastructure (NCP-MCI)](https://next.nutanix.com/education-blog-153/special-limited-time-promotion-fast-track-your-nutanix-certification-45039) | $199 | ☁️Cloud | 30-Apr-2026 |
 | [Hack & Fix](https://academy.hackandfix.com/) | [Certified Phishing Prevention Specialist (CPPS)](https://academy.hackandfix.com/courses-archive/certified-phishing-prevention-specialist/) | $20 | ⚔️Cyber | 31-Dec-2025 |
+| [The XSS Rat](https://thexssrat.podia.com/) | [000-B: The basics of the web, HTML CSS and JS](https://thexssrat.podia.com/000-b-the-basics-of-the-web-html-css-and-js?coupon=XACSVDFGBN) | €19.99 | ⚔️Cyber | ❓TBC |
+| [The XSS Rat](https://thexssrat.podia.com/) | [040: Uncle Rat's Burp Suite Workflow Handbook [2023 VERSION] [BEGINNER]](https://thexssrat.podia.com/uncle-rat-s-burp-suite-workflow-handbook-2023-version?coupon=HGFHFGHFGHF) | €19.99 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Red Team Operations Management (CRTOM)](https://courses.redteamleaders.com/exams/c09a6099-0bc8-4eb4-a4b1-c08d07bb8242) | $10 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified C++ Practitioner (CCPP)](https://courses.redteamleaders.com/exams/0400013e-0233-4a04-b705-8bce7dc94228) | $5 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Christmas Gift - Red Team Leaders!](https://docs.google.com/forms/d/e/1FAIpQLSf2V2TvbugX3PgRB7AijcEILLRlhBw1Gbm4aQvzLj9tQAOgKQ/viewform) | $9.99-14.99 | ⚔️Cyber | ❓TBC |
