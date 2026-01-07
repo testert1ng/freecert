@@ -46,3 +46,4 @@
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Red Team Operations Management (CRTOM)](https://courses.redteamleaders.com/exams/c09a6099-0bc8-4eb4-a4b1-c08d07bb8242) | $10 | ⚔️Cyber | ❓TBC |
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified C++ Practitioner (CCPP)](https://courses.redteamleaders.com/exams/0400013e-0233-4a04-b705-8bce7dc94228) | $5 | ⚔️Cyber | ❓TBC |
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Christmas Gift - Red Team Leaders!](https://docs.google.com/forms/d/e/1FAIpQLSf2V2TvbugX3PgRB7AijcEILLRlhBw1Gbm4aQvzLj9tQAOgKQ/viewform) | $9.99-14.99 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Threat Intelligence & Governance Analyst (CTIGA)](https://courses.redteamleaders.com/exams/92f9ada1-f557-450f-a21f-8ae56c42bb0f) | $10 | ⚔️Cyber | ❓TBC |
