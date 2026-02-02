@@ -48,3 +48,6 @@
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Christmas Gift - Red Team Leaders!](https://docs.google.com/forms/d/e/1FAIpQLSf2V2TvbugX3PgRB7AijcEILLRlhBw1Gbm4aQvzLj9tQAOgKQ/viewform) | $9.99-14.99 | ⚔️Cyber | ❓TBC |
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Threat Intelligence & Governance Analyst (CTIGA)](https://courses.redteamleaders.com/exams/92f9ada1-f557-450f-a21f-8ae56c42bb0f) | $10 | ⚔️Cyber | ❓TBC |
 | [Aviatrix](https://ace.aviatrix.com/) | [ACE Multicloud Network Associate](https://ace.aviatrix.com/ace-associate) | $895 | ☁️Cloud | ❓TBC |
+| [The XSS Rat](https://thexssrat.podia.com/) | [019 Offensive CyberSecurity Guide A-Z](https://thexssrat.podia.com/ethical-hacking-guide-a-z?coupon=SDFGGDG) | €159 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Artificial Intelligence Security & Risk (CAISR)](https://courses.redteamleaders.com/exams/c4655ba3-b707-43ea-a6fd-e5db25169af0) | $10 | ⚔️Cyber | ❓TBC |
+
