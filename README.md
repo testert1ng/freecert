@@ -50,4 +50,5 @@
 | [Aviatrix](https://ace.aviatrix.com/) | [ACE Multicloud Network Associate](https://ace.aviatrix.com/ace-associate) | $895 | ☁️Cloud | ❓TBC |
 | [The XSS Rat](https://thexssrat.podia.com/) | [019 Offensive CyberSecurity Guide A-Z](https://thexssrat.podia.com/ethical-hacking-guide-a-z?coupon=SDFGGDG) | €159 | ⚔️Cyber | ❓TBC |
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Artificial Intelligence Security & Risk (CAISR)](https://courses.redteamleaders.com/exams/c4655ba3-b707-43ea-a6fd-e5db25169af0) | $10 | ⚔️Cyber | ❓TBC |
+| [Proofpoint](https://www.proofpoint.com/) | [Certified AI Agent Security Specialist](https://www.proofpoint.com/us/ai-agent-security-specialist-2026) | FREE | ⚔️Cyber | 06-Mar-2026 |
 
