@@ -54,6 +54,7 @@
 | [Offsec](https://www.offsec.com/) | [OSAI](https://www.offsec.com/courses/osai/) | $1749 | ⚔️Cyber | 16-Mar-2026 |
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Human Trafficking Awareness Professional (CHTAP)](https://courses.redteamleaders.com/exams/acc0f465-16db-4453-a117-731e1e2da686) | $0.5 | ⚔️Cyber | ❓TBC |
 | [Wallarm](https://www.wallarm.com/) | [API Security Certified Associate](https://www.wallarm.com/api-security-certification) | FREE | ⚔️Cyber | ❓TBC |
+| [ServiceNow](https://learning.servicenow.com/) | [LIFT OFF TO KNOWLEDGE 2026](https://servicenow.swoogo.com/) | FREE | 🤖AI  | 16-Mar-2026 |
 
 
 
