@@ -55,6 +55,6 @@
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified Human Trafficking Awareness Professional (CHTAP)](https://courses.redteamleaders.com/exams/acc0f465-16db-4453-a117-731e1e2da686) | $0.5 | ⚔️Cyber | ❓TBC |
 | [Wallarm](https://www.wallarm.com/) | [API Security Certified Associate](https://www.wallarm.com/api-security-certification) | FREE | ⚔️Cyber | ❓TBC |
 | [ServiceNow](https://learning.servicenow.com/) | [LIFT OFF TO KNOWLEDGE 2026](https://servicenow.swoogo.com/) | FREE | 🤖AI  | 16-Mar-2026 |
-
+| [The Secops Group](https://pentestingexams.com/) | [𝗪𝗼𝗺𝗲𝗻'𝘀 𝗗𝗮𝘆 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆 | 𝗙𝗥𝗘𝗘 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗕𝗹𝘂𝗲 𝗧𝗲𝗮𝗺 𝗣𝗿𝗮𝗰𝘁𝗶𝘁𝗶𝗼𝗻𝗲𝗿 (𝗖𝗕𝗧𝗣)](https://www.linkedin.com/posts/secops-group_womensday-womenincybersecurity-womenintech-activity-7435295256927174657-VAg3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa95SYBdQsaud6j6TefbkTG_nWq0K2-4c0) | £100 | ⚔️Cyber | ❓TBC |
 
 
