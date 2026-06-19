@@ -61,3 +61,4 @@
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified LLM Security Professional (CLLMSP)](https://courses.redteamleaders.com/exams/21f669cb-8f17-4d18-8a7c-a34c055aee85) | $1 | ⚔️Cyber | ❓TBC |
 | [CompTIA](https://www.comptia.org/) | [CompTIA SecOT+](https://www.comptia.org/en-au/experts/become-a-subject-matter-expert/comptia-secOT-beta-exam/) | ❓TBC | ⚔️Cyber | 07-Aug-2026 |
 | [MasterMind](https://learn.mastermindassurance.com/) | [ISO/IEC 27701:2025 Lead Auditor](https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor) | FREE | ⚔️Cyber | ❓TBC |
+| [The Secops Group](https://pentestingexams.com/) | [𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗦𝗼𝗰𝗶𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗗𝗲𝗳𝗲𝗻𝘀𝗲 𝗣𝗿𝗮𝗰𝘁𝗶𝘁𝗶𝗼𝗻𝗲𝗿 (𝗖𝗦𝗘𝗗𝗣)](https://www.linkedin.com/posts/secops-group_cybersecurity-socialengineering-csedp-activity-7473384856081707008-tBnu) | £100 | ⚔️Cyber | ❓TBC |
