@@ -63,3 +63,6 @@
 | [MasterMind](https://learn.mastermindassurance.com/) | [ISO/IEC 27701:2025 Lead Auditor](https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor) | FREE | ⚔️Cyber | ❓TBC |
 | [The Secops Group](https://pentestingexams.com/) | [𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗦𝗼𝗰𝗶𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗗𝗲𝗳𝗲𝗻𝘀𝗲 𝗣𝗿𝗮𝗰𝘁𝗶𝘁𝗶𝗼𝗻𝗲𝗿 (𝗖𝗦𝗘𝗗𝗣)](https://www.linkedin.com/posts/secops-group_cybersecurity-socialengineering-csedp-activity-7473384856081707008-tBnu) | £100 | ⚔️Cyber | ❓TBC |
 | [EC-Council](https://www.eccouncil.org/) | [Certified Penetration Testing Professional (C|PENTAI)](https://www.eccouncil.org/hackers4humanity/) | $1999 | ⚔️Cyber | ❓TBC |
+| [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified LLM Security Expert (CLLMSE)](https://courses.redteamleaders.com/exams/73c286aa-2944-4f26-82ba-0ca14a05a4b7) | $3 | ⚔️Cyber | ❓TBC |
+| [RIPE NCC](https://academy.ripe.net/) | [CRIPE NCC Academy Summer School 2026](https://academy.ripe.net/mod/page/view.php?id=983) | ❓ | ⚔️Cyber | 31-Aug-2026 |
+| [Try Hack Me](https://tryhackme.com/) | [Web Application Pentesting (WEB1)](https://x.com/tryhackme/status/2080300930751230070) | $299 | ⚔️Cyber | 26-Jul-2026 |
