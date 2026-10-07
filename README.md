@@ -66,3 +66,5 @@
 | [Red Team Leaders](https://courses.redteamleaders.com/) | [Certified LLM Security Expert (CLLMSE)](https://courses.redteamleaders.com/exams/73c286aa-2944-4f26-82ba-0ca14a05a4b7) | $3 | ⚔️Cyber | ❓TBC |
 | [RIPE NCC](https://academy.ripe.net/) | [CRIPE NCC Academy Summer School 2026](https://academy.ripe.net/mod/page/view.php?id=983) | ❓ | ⚔️Cyber | 31-Aug-2026 |
 | [Try Hack Me](https://tryhackme.com/) | [Web Application Pentesting (WEB1)](https://x.com/tryhackme/status/2080300930751230070) | $299 | ⚔️Cyber | 26-Jul-2026 |
+| [Cyber Warfare Labs](https://cyberwarfare.live/) | [Cyber Security Analyst (C3SA)](https://cyberwarfare.live/certifications/cyber-security-analyst-c3sa) | $59 | ⚔️Cyber | ❓TBC |
+| [Cyber Warfare Labs](https://cyberwarfare.live/) | [Blue Team Fundamentals (BTF))](https://cyberwarfare.live/certifications/blue-team-fundamentals-btf) | $29 | ⚔️Cyber | ❓TBC |
